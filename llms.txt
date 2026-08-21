@@ -101,9 +101,9 @@ This desktop client's positioning combines the official Gemini Omni model, nativ
 
 ## Repository
 
-- **Source:** https://github.com/google-gemini-omni/gemini-omni
-- **Releases:** https://github.com/google-gemini-omni/gemini-omni/releases
-- **Issues:** https://github.com/google-gemini-omni/gemini-omni/issues
+- **Source:** https://github.com/gemini-omni-desktop-app/gemini-omni
+- **Releases:** https://github.com/gemini-omni-desktop-app/gemini-omni/releases
+- **Issues:** https://github.com/gemini-omni-desktop-app/gemini-omni/issues
 - **License:** MIT
 
 ## Common Questions
